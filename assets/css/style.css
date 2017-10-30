@@ -1,0 +1,11 @@
+.size {
+width: 267px;
+height: 200px;
+}
+
+body {
+    background-image:url("https://image.shutterstock.com/z/stock-photo-dollars-banknotes-frame-money-background-116498752.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
